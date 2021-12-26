@@ -1,14 +1,17 @@
-                                   “Fever” Compare Analysis
+# Kickstarter Analysis
 
-Kickstarter Data Overview: Project overview was to perform analysis on Kickstarter dataset and 
+## Kickstarter Data Overview: 
+Project overview was to perform analysis on Kickstarter dataset and 
 determine the best outcome for when a theater play should be launched along with fundraising success. 
 
-Analysis and challenges: I was able to use the Kickstarter dataset and create a pivot chart from 
+## Analysis and challenges: 
+I was able to use the Kickstarter dataset and create a pivot chart from 
 information based on the years (2009-2017) and category (theater) to determine the best outcome of 
 when to launch the play. I was also able to use information from the goals column and determine how 
 many plays that were successful, failed, or canceled from a fundraising aspect.
 
-Results: Two conclusions were drawn from the Theater Outcomes Based on Launch Date pivot chart 
+## Results: 
+Two conclusions were drawn from the Theater Outcomes Based on Launch Date pivot chart 
 with eight years of collected data. First conclusion indicates the month of May is the most likely 
 successful time to launch to play, and second conclusion based on trend lines indicates least likely 
 to succeed in the months from October to December.

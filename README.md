@@ -16,8 +16,12 @@ with eight years of collected data. First conclusion indicates the month of May 
 successful time to launch to play, and second conclusion based on trend lines indicates least likely 
 to succeed in the months from October to December.
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/92836648/147419245-1cabc6c8-bfe5-4e40-ac3f-c19cdf890573.png)
+
 The conclusion from the Outcomes Based on Goals line chart indicates most successful between less 
 than $1,000 to $15,000 range and $35,000 to $45,000 range in goals.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/92836648/147419243-9f02d3fe-7d92-479a-8998-022cbb051ebc.png)
 
 Limitations of the data sets are no subcategories to Outcome’s column for successful, failed, and 
 canceled help understand the reasoning of why it was successful, failed, or canceled.
